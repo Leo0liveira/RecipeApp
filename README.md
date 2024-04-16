@@ -1,5 +1,5 @@
 # RecipeApp
-O RecipeApp é um projeto Android focado no estudo e prática do consumo de APIs, utilizando Retrofit para interagir com serviços web e processar respostas JSON. Este projeto também é um exercício de arquitetura baseada em ViewModel para separação de responsabilidades e gerenciamento de dados. A API utilizada foi a ["The Meal DB"](https://www.themealdb.com/api.php)
+O RecipeApp é um projeto Android focado no estudo e prática do consumo de APIs, utilizando Retrofit para interagir com serviços web e processar respostas JSON. Este projeto também é um exercício de arquitetura baseada em ViewModel para separação de responsabilidades e gerenciamento de dados. A API utilizada foi a [The Meal DB](https://www.themealdb.com/api.php)
 
 ### Principais Características e Aprendizados:
 
